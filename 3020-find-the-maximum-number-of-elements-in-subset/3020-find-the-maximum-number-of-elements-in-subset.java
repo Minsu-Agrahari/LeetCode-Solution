@@ -24,8 +24,6 @@ class Solution {
             while (freq.getOrDefault(curr, 0) >= 2) {
                 len += 2;
 
-                // if(curr > 1000000000L / curr) break;
-
                 curr *= curr;
             }
 
