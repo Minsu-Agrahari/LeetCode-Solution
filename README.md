@@ -9,6 +9,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3731-find-missing-elements](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
 |  |
@@ -30,6 +31,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/1833-maximum-ice-cream-bars) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3731-find-missing-elements](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Greedy
 |  |
@@ -40,6 +42,7 @@
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/1833-maximum-ice-cream-bars) |
+| [3731-find-missing-elements](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/3731-find-missing-elements) |
 ## Counting Sort
 |  |
 | ------- |
