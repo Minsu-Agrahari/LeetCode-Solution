@@ -4,6 +4,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/1331-rank-transform-of-an-array) |
@@ -26,6 +27,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0001-two-sum) |
 | [1331-rank-transform-of-an-array](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/1331-rank-transform-of-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/1833-maximum-ice-cream-bars) |
