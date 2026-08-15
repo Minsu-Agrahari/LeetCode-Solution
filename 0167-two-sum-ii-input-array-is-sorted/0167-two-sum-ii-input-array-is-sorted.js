@@ -5,21 +5,24 @@
  */
 var twoSum = function(numbers, target) {
     
-    // Creating a HashMap
-    const map = new Map();
-    // Array of size 2
-    const result = new Array(2);
+    let i=0, j=numbers.length-1;
+    const idxArr = new Array(2);
 
-    for(let i=0; i<numbers.length; i++) {
+    while (i < j) {
 
-        let targetVal = target - numbers[i];
+        let sum = numbers[i] + numbers[j];
 
-        if (map.has(targetVal)) {
-            result[0] = map.get(targetVal) + 1;
-            result[1] = (i+1);
+        if(sum == target) {
+            idxArr[0] = i+1;
+            idxArr[1] = j+1;
+
             break;
-        }else map.set(numbers[i], i);
+        }else if (sum < target) {
+            i++;
+        }else {
+            j--;
+        }
     }
 
-    return result;
+    return idxArr;
 };
