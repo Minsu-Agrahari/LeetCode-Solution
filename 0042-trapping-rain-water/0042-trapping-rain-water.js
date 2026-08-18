@@ -2,27 +2,50 @@
  * @param {number[]} height
  * @return {number}
  */
+
 var trap = function(height) {
     
-    let len = height.length;
+    const len = height.length;
 
-    let maxLeft_Ht = new Array(len).fill(0); maxLeft_Ht[0] = height[0];
-    let maxRight_Ht = new Array(len).fill(0); maxRight_Ht[len-1] = height[len-1];
+    const maxLeft = getMaxLeft(height);
+    const maxRight = getMaxRight(height);
 
-    // populate the max left/right Array
-    for(let i=1; i<len; i++){
-        maxLeft_Ht[i] = Math.max(maxLeft_Ht[i-1], height[i]);
+    return calculateWaterLevel(height, maxLeft, maxRight);
+};
+
+function getMaxLeft(height) {
+    const len = height.length;
+    const maxLeft = new Array(len).fill(0);
+
+    maxLeft[0] = height[0];
+
+    for (let i=1; i<len; i++) {
+        maxLeft[i] = Math.max(maxLeft[i-1], height[i]);
     }
 
-    for(let i=len-2; i>=0; i--){
-        maxRight_Ht[i] = Math.max(height[i], maxRight_Ht[i+1]);
+    return maxLeft;
+}
+
+function getMaxRight(height) {
+    const len = height.length;
+    const maxRight = new Array(len).fill(0)
+
+    maxRight[len-1] = height[len-1];
+
+    for (let i=len-2; i>=0; i--) {
+        maxRight[i] = Math.max(maxRight[i+1], height[i]);
     }
 
-    // water fill
+    return maxRight;
+}
+
+function calculateWaterLevel(height, maxLeft, maxRight) {
     let waterLevel = 0;
+    const len = height.length;
+
     for(let i=1; i<len-1; i++) {
-        waterLevel += Math.min(maxLeft_Ht[i], maxRight_Ht[i]) - height[i];
+        waterLevel += Math.min(maxLeft[i], maxRight[i]) - height[i];
     }
 
     return waterLevel;
-};
+}
