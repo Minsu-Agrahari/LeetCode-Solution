@@ -30,6 +30,7 @@
 | [0001-two-sum](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0016-3sum-closest) |
+| [0031-next-permutation](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1331-rank-transform-of-an-array](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/1331-rank-transform-of-an-array) |
@@ -87,6 +88,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0016-3sum-closest) |
+| [0031-next-permutation](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
