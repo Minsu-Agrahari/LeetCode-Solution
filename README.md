@@ -34,6 +34,7 @@
 | [0031-next-permutation](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0054-spiral-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1331-rank-transform-of-an-array](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/1331-rank-transform-of-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/1732-find-the-highest-altitude) |
@@ -119,4 +120,9 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
