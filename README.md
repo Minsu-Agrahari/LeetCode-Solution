@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0049-group-anagrams) |
 | [1189-maximum-number-of-balloons](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -16,6 +17,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0049-group-anagrams) |
 | [1189-maximum-number-of-balloons](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -34,6 +36,7 @@
 | [0031-next-permutation](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0054-spiral-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1331-rank-transform-of-an-array](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/1331-rank-transform-of-an-array) |
@@ -53,6 +56,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0049-group-anagrams) |
 | [1331-rank-transform-of-an-array](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/1833-maximum-ice-cream-bars) |
 | [3731-find-missing-elements](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/3731-find-missing-elements) |
