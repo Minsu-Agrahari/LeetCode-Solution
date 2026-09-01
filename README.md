@@ -39,6 +39,7 @@
 | [0049-group-anagrams](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0054-spiral-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0498-diagonal-traverse](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0498-diagonal-traverse) |
 | [1329-sort-the-matrix-diagonally](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/1329-sort-the-matrix-diagonally) |
 | [1331-rank-transform-of-an-array](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/1331-rank-transform-of-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/1732-find-the-highest-altitude) |
@@ -127,9 +128,11 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0054-spiral-matrix) |
+| [0498-diagonal-traverse](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0498-diagonal-traverse) |
 | [1329-sort-the-matrix-diagonally](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/1329-sort-the-matrix-diagonally) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0054-spiral-matrix) |
+| [0498-diagonal-traverse](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0498-diagonal-traverse) |
 <!---LeetCode Topics End-->
