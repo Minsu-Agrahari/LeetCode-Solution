@@ -3,51 +3,33 @@
  * @return {void} Do not return anything, modify nums in-place instead.
  */
 
-function countZero (nums){
-    let zero = 0;
-    for (let num of nums) {
-        if (num === 0){
-            zero++;
-        }
-    }
-    return zero;
-}
+function swapElem (nums, idx1, idx2) {
 
-function countOne (nums){
-    let one = 0;
-    for (let num of nums) {
-        if (num === 1){
-            one++;
-        }
-    }
-    return one;
-}
+    [nums[idx1], nums[idx2]] = [nums[idx2], nums[idx1]];
 
-function countTwo (nums){
-    let two = 0;
-    for (let num of nums) {
-        if (num === 2){
-            two++;
-        }
-    }
-    return two;
-}
-
-function fillArray (elem, counts, result){
-    for(let i=0; i<counts; i++) {
-        result.push(elem);
-    }
-}
+}; 
 
 var sortColors = function(nums) {
-    const zero = countZero(nums);
-    const one = countOne(nums);
-    const two = countTwo(nums);
+    let i=0, j=0, k=nums.length-1;
 
-    nums.length = 0;
+    while (j <=  k) {
+        
+        if (nums[j] === 0) {
+            
+            swapElem (nums, j, i);
+            
+            i++;
+            j++;
 
-    fillArray(0, zero, nums);
-    fillArray(1, one, nums);
-    fillArray(2, two, nums);
-    
+        } else if (nums[j] === 1) {
+            
+            j++;
+
+        } else if (nums[j] === 2) {
+
+            swapElem (nums, j, k);
+            
+            k--;
+        }
+    }
 };
