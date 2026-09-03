@@ -38,6 +38,7 @@
 | [0048-rotate-image](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0054-spiral-matrix) |
+| [0075-sort-colors](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0498-diagonal-traverse](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0498-diagonal-traverse) |
 | [1329-sort-the-matrix-diagonally](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/1329-sort-the-matrix-diagonally) |
@@ -59,6 +60,7 @@
 | [0015-3sum](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0075-sort-colors) |
 | [1329-sort-the-matrix-diagonally](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/1329-sort-the-matrix-diagonally) |
 | [1331-rank-transform-of-an-array](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/1833-maximum-ice-cream-bars) |
@@ -102,6 +104,7 @@
 | [0016-3sum-closest](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
 |  |
@@ -135,4 +138,12 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0498-diagonal-traverse) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
