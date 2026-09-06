@@ -42,6 +42,7 @@
 | [0075-sort-colors](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0498-diagonal-traverse](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0498-diagonal-traverse) |
+| [0724-find-pivot-index](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0724-find-pivot-index) |
 | [1329-sort-the-matrix-diagonally](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/1329-sort-the-matrix-diagonally) |
 | [1331-rank-transform-of-an-array](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/1331-rank-transform-of-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/1732-find-the-highest-altitude) |
@@ -76,6 +77,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/1732-find-the-highest-altitude) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
