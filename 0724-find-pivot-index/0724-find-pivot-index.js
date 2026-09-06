@@ -2,47 +2,26 @@
  * @param {number[]} nums
  * @return {number}
  */
-
-function prefixSumCal (nums) {
-    let sumArr = [];
-    let sum = 0;
+var pivotIndex = function(nums) {
+    
+    const len = nums.length;
+    let leftSum = 0;
+    let totalSum = 0;
+    let rightSum = 0;
 
     for (let elem of nums) {
-        sum = sum + elem;
-        sumArr.push(sum);
+        totalSum += elem;
     }
-    console.log(sumArr);
-    return sumArr;
-};
 
-var pivotIndex = function(nums) {
+    for (let idx = 0; idx<len; idx++) {
 
-    let prefixSum = [];
-    let leftSum = 0, rightSum = 0;
-    // const pivotIdx = 0;
-    
-    prefixSum = prefixSumCal (nums);
-    const len = prefixSum.length;
-    
-    for (let idx = 0; idx<=len-1; idx++) {
-
-        if (idx+1 >= len) {
-            rightSum = 0;
-        }else {
-            rightSum = prefixSum[len-1] - prefixSum[idx];
-        }
-        
-        if (idx - 1 <= -1) {
-            leftSum = 0;
-        }else {
-            leftSum = prefixSum[idx-1];
-        }
-
-        // console.log(`element --> ${prefixSum[idx]} \n RightSum --> ${rightSum} \n LeftSum --> ${leftSum} \n`);
+        rightSum = totalSum - leftSum - nums[idx];
 
         if (leftSum === rightSum) {
             return idx;
         }
+
+        leftSum += nums[idx];
     }
 
     return -1;
