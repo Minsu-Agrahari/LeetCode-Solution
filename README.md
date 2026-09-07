@@ -41,6 +41,7 @@
 | [0054-spiral-matrix](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0334-increasing-triplet-subsequence](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0334-increasing-triplet-subsequence) |
 | [0498-diagonal-traverse](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0498-diagonal-traverse) |
 | [0724-find-pivot-index](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0724-find-pivot-index) |
 | [1329-sort-the-matrix-diagonally](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/1329-sort-the-matrix-diagonally) |
@@ -56,6 +57,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0011-container-with-most-water) |
+| [0334-increasing-triplet-subsequence](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0334-increasing-triplet-subsequence) |
 | [1833-maximum-ice-cream-bars](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/1833-maximum-ice-cream-bars) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/2007-find-original-array-from-doubled-array) |
 ## Sorting
@@ -152,4 +154,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0075-sort-colors) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
