@@ -8,6 +8,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0049-group-anagrams) |
 | [0219-contains-duplicate-ii](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0219-contains-duplicate-ii) |
+| [0645-set-mismatch](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0645-set-mismatch) |
 | [1189-maximum-number-of-balloons](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -45,6 +46,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0219-contains-duplicate-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0334-increasing-triplet-subsequence) |
 | [0498-diagonal-traverse](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0498-diagonal-traverse) |
+| [0645-set-mismatch](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0724-find-pivot-index) |
 | [0976-largest-perimeter-triangle](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0976-largest-perimeter-triangle) |
 | [1329-sort-the-matrix-diagonally](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/1329-sort-the-matrix-diagonally) |
@@ -71,6 +73,7 @@
 | [0016-3sum-closest](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0075-sort-colors) |
+| [0645-set-mismatch](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0645-set-mismatch) |
 | [0976-largest-perimeter-triangle](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0976-largest-perimeter-triangle) |
 | [1329-sort-the-matrix-diagonally](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/1329-sort-the-matrix-diagonally) |
 | [1331-rank-transform-of-an-array](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/1331-rank-transform-of-an-array) |
@@ -170,4 +173,8 @@
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0976-largest-perimeter-triangle) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
