@@ -8,7 +8,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0049-group-anagrams) |
 | [0219-contains-duplicate-ii](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0219-contains-duplicate-ii) |
-| [0523-continuous-subarray-sum](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0523-continuous-subarray-sum) |
+|🔀 [0523-continuous-subarray-sum](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0523-continuous-subarray-sum) |
 | [0645-set-mismatch](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0645-set-mismatch) |
 | [1189-maximum-number-of-balloons](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/1331-rank-transform-of-an-array) |
