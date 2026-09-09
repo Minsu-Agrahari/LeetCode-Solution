@@ -8,6 +8,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0049-group-anagrams) |
 | [0219-contains-duplicate-ii](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0219-contains-duplicate-ii) |
+| [0523-continuous-subarray-sum](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0523-continuous-subarray-sum) |
 | [0645-set-mismatch](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0645-set-mismatch) |
 | [1189-maximum-number-of-balloons](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/1331-rank-transform-of-an-array) |
@@ -46,6 +47,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0219-contains-duplicate-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0334-increasing-triplet-subsequence) |
 | [0498-diagonal-traverse](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0498-diagonal-traverse) |
+| [0523-continuous-subarray-sum](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0523-continuous-subarray-sum) |
 | [0645-set-mismatch](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0724-find-pivot-index) |
 | [0976-largest-perimeter-triangle](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0976-largest-perimeter-triangle) |
@@ -87,6 +89,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/1732-find-the-highest-altitude) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -143,6 +146,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0048-rotate-image) |
+| [0523-continuous-subarray-sum](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0523-continuous-subarray-sum) |
 | [0976-largest-perimeter-triangle](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0976-largest-perimeter-triangle) |
 ## Matrix
 |  |
@@ -177,4 +181,8 @@
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0645-set-mismatch) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/Minsu-Agrahari/LeetCode-Solution/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
