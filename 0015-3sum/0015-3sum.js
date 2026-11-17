@@ -2,55 +2,58 @@
  * @param {number[]} nums
  * @return {number[][]}
  */
+
+
+// sort arr
+
+// for (i -> n-2)
+// if (i>0 && a[i] === a[i+1])
+
+// left = i+1, right = n-1
+// while(left < right){
+//   let sum = a[i] + a[left] + a[right]
+//   if (sum === 0) return [i, left, right]
+// if ( sum > 0) right--;
+// else left++
+// }
+
+
 var threeSum = function(nums) {
     
     let len = nums.length;
-    let resultArr = [];
+    const result = [];
 
-    nums.sort((a, b) => a-b);
+    // Sort the array
+    nums.sort((a, b) => (a-b));
 
-    for (let fix=0; fix<len-1; fix++){
+    for (let i=0; i<len-2; i++) {
+        let left = i+1, right = len-1;
 
-        // skip duplicate fixed values
-        if (fix>0 && nums[fix] === nums[fix-1]){
-            continue;
-        }
+        if (i<0 && nums[i] === nums[i+1]) continue;
 
-        let i=fix+1;
-        let j=len-1;
+        while (left < right) {
+            const sum = nums[i] + nums[left] + nums[right];
 
-        // 2sum n1+n2+n3 = 0
-        while(i<j) {
-            let n1 = nums[fix];
-            let n2 = nums[i];
-            let n3 = nums[j];
 
-            let sum = n1 + n2 + n3;
+            if (sum === 0) {
+                const zeroArray = [nums[i], nums[left], nums[right]];
 
-            if(sum === 0){
-                let curr = [n1, n2, n3];
-                resultArr.push(curr);
+                const isExist = result.some(
+                items => 
+                    items[0] === zeroArray[0] &&
+                    items[1] === zeroArray[1] &&
+                    items[2] === zeroArray[2] 
+                );
 
-                // smiliar pass
-                while((i+1) < len && i < j){
-                    if(nums[i] === nums[i+1]) {
-                        i++;
-                    }else break;
+                if(!isExist) {
+                    result.push(zeroArray);
                 }
-                while(j>0 && i < j){
-                    if(nums[j] === nums[j-1]) {
-                        j--;
-                    }else break;
-                }
-
-                i++;
-                j--;
-            }else if(sum < 0){
-                i++;
-            }else{
-                j--;
             }
+
+            if (sum > 0) right--;
+            else left++;
         }
     }
-    return resultArr;
+
+    return result;
 };
